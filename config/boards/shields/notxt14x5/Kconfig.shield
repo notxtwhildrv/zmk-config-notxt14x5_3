@@ -1,2 +1,0 @@
-config SHIELD_NOTXT14X5
-    def_bool $(shields_list_contains,notxt14x5)
