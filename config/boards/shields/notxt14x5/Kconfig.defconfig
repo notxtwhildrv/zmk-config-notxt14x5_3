@@ -1,0 +1,6 @@
+if SHIELD_NOTXT14X5
+
+config ZMK_KEYBOARD_NAME
+    default "notxt14x5"
+
+endif
